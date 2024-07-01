@@ -35,3 +35,5 @@ This repository demonstrates a simple chatbot application using the LangChain li
 
 ## Interact with the chatbot:
 Open your web browser and go to the URL provided by Streamlit. Enter your query in the text input box and get responses from the chatbot powered by LLAMA2.
+![Screenshot (192)](https://github.com/manoranjan-30/Chatbot---Using-Llama3/assets/117255268/e10cc415-cf91-49cc-b9f6-48f4c39ed24e)
+
