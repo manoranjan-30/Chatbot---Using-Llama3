@@ -1,7 +1,7 @@
-# Chatbot---Using-Llama3
+## Chatbot---Using-Llama3
 This repository demonstrates a simple chatbot application using the LangChain library and the LLAMA3 model. The chatbot is designed to respond to user queries interactively using the Streamlit framework for a web-based user interface.
 
-Features
+# Features
 LangChain Integration: Utilizes the LangChain library for prompt management and output parsing.
 LLAMA3 Model: Incorporates the LLAMA2 model from Ollama for natural language processing.
 Streamlit Interface: Provides a user-friendly interface using Streamlit for real-time query handling.
